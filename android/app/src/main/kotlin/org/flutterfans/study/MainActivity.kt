@@ -1,0 +1,6 @@
+package org.flutterfans.study
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
